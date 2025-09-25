@@ -1,7 +1,7 @@
 //simple c program ("hello world")single line comment
 /*
 Name:Duncan
-Reg no. 26547
+Reg no.CT101G/26547/25
 Date: 12th sept
 Description: Hello world program
 */
