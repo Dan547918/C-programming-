@@ -1,6 +1,6 @@
 /*
 Name:Duncan mugambi
-Reg no. 26547
+Reg no.CT101/G/26547
 Date: 12th sept
 Description: Loan eligibility
 */
